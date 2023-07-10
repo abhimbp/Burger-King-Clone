@@ -1,4 +1,4 @@
-![Screenshot (24)](https://github.com/abhimbp/Burger-King-clone/assets/126777631/8f3afe1c-7727-434b-adb3-06dc9fd837e4)<h1>Burger_king_clone</h1>
+<h1>Burger_king_clone</h1>
 <br>
 <br>
 <br>
