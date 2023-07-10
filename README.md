@@ -16,6 +16,8 @@
 	<li>Host the website at github.</li>
     </ul>
 
+![Screenshot (19)](https://github.com/abhimbp/Burger-King-clone/assets/126777631/8f487afd-922e-4cb5-8de0-7abf191bd651)
 
-<img src="">![Screenshot (19)](https://github.com/abhimbp/Burger-K![Screenshot (21)](https://github.com/abhimbp/Burger-King-clone/assets/126777631/78361e2e-3a9a-4aec-aef2-20b60d1dffc9)
+
+
 
